@@ -6,8 +6,8 @@ The user can enter their own id as well as the id of the recipient, and how many
 
 
 ### Block Inspector
-![Image of block contents]("pychain_screenshot")
+![Image of block contents](pychain_screenshot.png)
 
 
 ### Blockchain Validation
-![Validation Image]("validation_screenshot")
+![Validation Image](validation_screenshot.png)
