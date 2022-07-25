@@ -147,7 +147,7 @@ if st.button("Add Block"):
     prev_block_hash = prev_block.hash_block()
 
     new_block = Block(
-        record=Record,
+        record=Record(sender_data, receiver_data, amount),
         creator_id=42,
         prev_hash=prev_block_hash
     )
